@@ -23,6 +23,10 @@ spending_advisor_agent = Agent(
     #     2. Create a list containing these imported functions.
     #     Refer to the ADK documentation for how to add tools to an agent.
     #====Start your code here====
-    tools=[], # Replace this with the actual list of tools
+    tools=[
+        fetch_account_details,
+        fetch_transaction_history,
+        fetch_user_profile
+    ], # Replace this with the actual list of tools
     #====End your code here====
 )
