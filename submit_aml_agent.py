@@ -5,7 +5,8 @@ import os
 import time
 
 # --- Configuration ---
-TASKS_API_ENDPOINT = "http://localhost:3001/api/external/tasks?teamName=Algo%20Avengers&password=kR8sL2fP&taskNumber=3" # Replace with your actual tasks API URL
+# TASKS_API_ENDPOINT = "http://localhost:3001/api/external/tasks?teamName=Algo%20Avengers&password=kR8sL2fP&taskNumber=3" # Replace with your actual tasks API URL
+TASKS_API_ENDPOINT = "https://app.agenthack.uk/api/external/tasks?teamName=Neural%20Navigators&password=kR8sL2fP&taskNumber=3"
 ADK_SERVER_BASE_URL = os.getenv("ADK_SERVER_URL", "http://localhost:8000") # ADK server
 APP_NAME = "aml_agent"
 
@@ -27,7 +28,7 @@ def fetch_tasks_from_api():
                 task for task in data["tasks"]
                 if isinstance(task, dict) and "task_string" in task and "submission_url" in task
             ]
-            if not valid_tasks and data["tasks"]: 
+            if not valid_tasks and data["tasks"]:
                 print("Warning: Some tasks in the response had an invalid structure.")
             if not valid_tasks:
                 print("No valid tasks found.")
@@ -49,7 +50,7 @@ def create_adk_session(user_id: str, session_id: str):
     """Creates a new session with the ADK server."""
     url = f"{ADK_SERVER_BASE_URL}/apps/{APP_NAME}/users/{user_id}/sessions/{session_id}"
     headers = {"Content-Type": "application/json"}
-    payload = {} 
+    payload = {}
 
     print(f"\n===== API Call (Create Session): =====\nURL: {url}\n======================================")
     try:
@@ -83,7 +84,7 @@ def run_adk_turn(user_id: str, session_id: str, task_query: str):
     try:
         response = requests.post(url, headers=headers, json=payload, timeout=300) # Increased timeout for agent processing
         response.raise_for_status()
-        return response.json() 
+        return response.json()
     except requests.exceptions.Timeout:
         print(f"Error running ADK turn: Timeout after 180s for task '{task_query}'")
         return None
@@ -92,21 +93,21 @@ def run_adk_turn(user_id: str, session_id: str, task_query: str):
         if e.response is not None:
             print(f"Error Response Body: {e.response.text}")
         return None
-    except ValueError as e: 
+    except ValueError as e:
         print(f"Error decoding JSON from ADK /run response: {e}")
         return None
 
 
 def submit_results_to_api(task_string: str, submission_url: str, conversation_log: dict):
     """Submits the conversation log to the specified submission URL."""
-    
+
     submission_string = ""
     try:
         submission_string = str( conversation_log)
     except:
         print("Unable to parse conversation ,skipping submission")
         return
-    
+
     payload = {
         "answer_string": submission_string
     }
@@ -132,9 +133,9 @@ def main_interaction_loop():
         return
 
     for i, task_item in enumerate(tasks):
-        
+
         # if( i != 1): continue
-        
+
         task_string = task_item["task_string"]
         submission_url = task_item["submission_url"]
 
@@ -146,8 +147,8 @@ def main_interaction_loop():
         if not create_adk_session(user_id, session_id):
             print(f"Failed to create session for task: {task_string}. Skipping.")
             continue
- 
-        time.sleep(1) 
+
+        time.sleep(1)
 
         conversation_log_from_run = run_adk_turn(user_id, session_id, task_string)
 
@@ -155,7 +156,7 @@ def main_interaction_loop():
             submit_results_to_api(task_string, submission_url, conversation_log_from_run)
         else:
             print(f"No conversation log obtained from /run for task: {task_string}. Cannot submit results.")
-        
+
         print("--- Task Complete ---")
         time.sleep(1) # Small delay between tasks
 
