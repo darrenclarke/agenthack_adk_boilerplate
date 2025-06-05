@@ -15,7 +15,8 @@
 """AML Coordinator: Orchestrates sub-agents for Anti-Money Laundering analysis."""
 
 from google.adk.agents import LlmAgent
-from google.adk.tools.agent_tool import AgentTool 
+from google.adk.tools.agent_tool import AgentTool
+from google.adk.tools import FunctionTool
 
 from . import prompt
 from .bank_api_client import fetch_transaction_history # Import the tool
@@ -46,7 +47,13 @@ aml_coordinator_agent = LlmAgent(
     #        - aml_policy_alignment_agent
     #     Refer to the ADK documentation for how to add tools and AgentTools.
     #====Start your code here====
-    tools=[], # Replace this with the actual list of tools
+    tools=[
+        fetch_transaction_history,
+        AgentTool(transaction_pattern_analysis_agent),
+        AgentTool(geographic_risk_assessment_agent),
+        AgentTool(entity_linkage_analysis_agent),
+        AgentTool(aml_policy_alignment_agent),
+    ], # Replace this with the actual list of tools
     #====End your code here====
 )
 

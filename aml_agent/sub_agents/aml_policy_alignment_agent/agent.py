@@ -3,6 +3,14 @@ from google.adk.agents import Agent
 from . import prompt
 from config import DEFAULT_LLM_MODEL as MODEL
 
+aml_policy_alignment_agent = Agent(
+    model=MODEL,
+    name="aml_policy_alignment_agent",
+    instruction=prompt.AML_POLICY_ALIGNMENT_PROMPT,
+    output_key="aml_policy_alignment_output",
+    tools=[]
+)
+
 #TODO Define the AML Policy Alignment Agent.
 #     This agent is responsible for aligning the findings of other AML sub-agents
 #     with the bank's internal AML policies and regulatory requirements.
