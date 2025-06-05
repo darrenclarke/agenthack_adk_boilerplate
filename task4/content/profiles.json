@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Deepmind": ["Demis Hassabis"],
+    "Enron": ["Kenneth Lay", "Jeffrey Skilling"],
+    "Lehman Brothers": ["Richard Fuld"],
+    "Theranos": ["Elizabeth Holmes"],
+    "FTX": ["Sam Bankman-Fried"],
+    "Google Cloud": ["Arham Khan", "Sundar Pichai"],
+    "Wirecard": ["Markus Braun"]
+  }
+}
