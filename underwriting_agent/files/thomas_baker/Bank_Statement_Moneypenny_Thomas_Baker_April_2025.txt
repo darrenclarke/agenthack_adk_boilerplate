@@ -1,0 +1,42 @@
+**Moneypenny Bank PLC**
+Your Trusted Financial Partner
+Branch: 22 Cabot Circus, Bristol, BS1 3BX
+www.moneypennybank.co.uk
+
+**Bank Statement**
+
+**Account Holder:** Mr. Thomas Baker
+**Address:** 27 Park Row, Bristol, BS1 5LS
+**Account Number:** 78-78-78-787878787
+**Sort Code:** 78-78-78
+**Statement Period:** 01 April 2025 - 30 April 2025
+**Statement Date:** 30 April 2025
+
+**Opening Balance (01 April 2025): £5,620.17**
+
+----------------------------------------------------------------------------------------------------
+| Date       | Description                                  | Debit (£)   | Credit (£)  | Balance (£)   |
+|------------|----------------------------------------------|-------------|-------------|---------------|
+| 01 Apr 2025| Rent Payment - Park Row Properties           | 1,000.00    |             | 4,620.17      |
+| 02 Apr 2025| Direct Debit - Bristol Gas & Power           | 58.10       |             | 4,562.07      |
+| 04 Apr 2025| Card Payment - Asda Superstore, Bedminster   | 88.40       |             | 4,473.67      |
+| 06 Apr 2025| Card Payment - Deliveroo Order               | 25.50       |             | 4,448.17      |
+| 07 Apr 2025| Direct Debit - Wessex Water                  | 28.00       |             | 4,420.17      |
+| 09 Apr 2025| Card Payment - Society Cafe, Harbourside     | 7.20        |             | 4,412.97      |
+| 10 Apr 2025| Transfer to Share Dealing Acct 987654        | 250.00      |             | 4,162.97      |
+| 11 Apr 2025| Card Payment - Apple Store Online            | 129.00      |             | 4,033.97      |
+| 14 Apr 2025| Faster Payment - C. Davis (Ref: Concert)     | 60.00       |             | 3,973.97      |
+| 16 Apr 2025| Card Payment - Co-op Food, Whiteladies Rd    | 35.90       |             | 3,938.07      |
+| 19 Apr 2025| Card Payment - Everyman Cinema, Whiteladies  | 30.00       |             | 3,908.07      |
+| 20 Apr 2025| Direct Debit - Sky Broadband & TV            | 60.00       |             | 3,848.07      |
+| 23 Apr 2025| Card Payment - Uber Eats                     | 18.75       |             | 3,829.32      |
+| 26 Apr 2025| Card Payment - Bristol Old Vic Theatre       | 75.00       |             | 3,754.32      |
+| 28 Apr 2025| BACS Credit - Tech Solutions Inc SALARY      |             | 3,300.00    | 7,054.32      |
+| 29 Apr 2025| Card Payment - GWR Train Tickets             | 42.80       |             | 7,011.52      |
+| 30 Apr 2025| Card Payment - The Canteen, Stokes Croft     | 45.00       |             | 6,966.52      |
+----------------------------------------------------------------------------------------------------
+
+**Closing Balance (30 April 2025): £6,966.52**
+
+Thank you for banking with Moneypenny Bank.
+For queries or assistance, please call 0345 600 700 or visit your local branch.

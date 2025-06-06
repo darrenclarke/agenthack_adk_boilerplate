@@ -1,0 +1,40 @@
+**Moneypenny Bank PLC**
+Your Trusted Financial Partner
+Branch: 45 Eastgate Street, Gloucester, GL1 1LN
+www.moneypennybank.co.uk
+
+**Bank Statement**
+
+**Account Holder:** Ms. Eleanor Bailey
+**Address:** Room 12B, Blackfriars Residences, 60 Westgate Street, Gloucester, GL1 2NF
+**Account Number:** 04-40-44-044044044
+**Sort Code:** 04-40-44
+**Statement Period:** 01 May 2025 - 31 May 2025
+**Statement Date:** 31 May 2025
+**Overdraft Limit:** £50.00
+
+**Opening Balance (01 May 2025): £797.38**
+
+----------------------------------------------------------------------------------------------------
+| Date       | Description                                  | Debit (£)   | Credit (£)  | Balance (£)   |
+|------------|----------------------------------------------|-------------|-------------|---------------|
+| 01 May 2025| Card Payment - txn_091 Campus Cafe           | 6.50        |             | 790.88        |
+| 02 May 2025| Card Payment - Spotify Subscription          | 9.99        |             | 780.89        |
+| 03 May 2025| Card Payment - Sainsbury's Local, Westgate   | 18.20       |             | 762.69        |
+| 05 May 2025| Card Payment - LuckyDrawGames.com            | 15.00       |             | 747.69        |
+| 07 May 2025| Card Payment - Bus Ticket Gloucester Stage   | 4.40        |             | 743.29        |
+| 08 May 2025| Card Payment - JustEat - Chicken Cottage     | 16.80       |             | 726.49        |
+| 10 May 2025| Card Payment - Primark, Eastgate St          | 25.00       |             | 701.49        |
+| 12 May 2025| ATM Withdrawal - ATM at Student Union        | 20.00       |             | 681.49        |
+| 15 May 2025| Card Payment - Superdrug, King's Walk        | 9.50        |             | 671.99        |
+| 18 May 2025| Card Payment - AllNiteBingo.co.uk            | 10.00       |             | 661.99        |
+| 20 May 2025| Card Payment - KFC, St Oswalds Park          | 11.50       |             | 650.49        |
+| 22 May 2025| Card Payment - University Vending Machine    | 1.80        |             | 648.69        |
+| 25 May 2025| Card Payment - The Regal (Wetherspoons)      | 14.20       |             | 634.49        |
+| 28 May 2025| Card Payment - Declined - Insufficient Funds | 0.00        |             | 634.49        |
+| 31 May 2025| BACS Credit - The Daily Grind Cafe SALARY    |             | 630.00      | 1264.49       |
+----------------------------------------------------------------------------------------------------
+
+**Closing Balance (31 May 2025): £1,264.49**
+
+Thank you for banking with Moneypenny Bank.

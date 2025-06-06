@@ -1,0 +1,43 @@
+**Moneypenny Bank PLC**
+Your Trusted Financial Partner
+Branch: 1 City Square, London, EC2R 6AP
+www.moneypennybank.co.uk
+
+**Bank Statement**
+
+**Account Holder:** Ms. Olivia King
+**Address:** 11 King's Way, London, WC2B 6LH
+**Account Number:** 10-10-10-101010101
+**Sort Code:** 10-10-10
+**Statement Period:** 01 May 2025 - 31 May 2025
+**Statement Date:** 31 May 2025
+
+**Opening Balance (01 May 2025): £6,988.57**
+
+----------------------------------------------------------------------------------------------------
+| Date       | Description                                  | Debit (£)   | Credit (£)  | Balance (£)   |
+|------------|----------------------------------------------|-------------|-------------|---------------|
+| 01 May 2025| Mortgage Payment - SecureHome Lenders        | 1,200.00    |             | 5,788.57      |
+| 02 May 2025| Direct Debit - Sparkle Energy (Ref SE-OK-87654321)| 81.02    |             | 5,707.55      |
+| 03 May 2025| Card Payment - Tesco Metro, Strand           | 72.10       |             | 5,635.45      |
+| 05 May 2025| Card Payment - Amazon Prime Subscription     | 8.99        |             | 5,626.46      |
+| 07 May 2025| Direct Debit - Thames Water                  | 35.00       |             | 5,591.46      |
+| 08 May 2025| Card Payment - txn_015 Lunch Meeting         | 42.80       |             | 5,548.66      |
+| 10 May 2025| Card Payment - Superdrug, High Holborn       | 15.50       |             | 5,533.16      |
+| 12 May 2025| Faster Payment - Gift to A. Woods            | 30.00       |             | 5,503.16      |
+| 14 May 2025| Card Payment - txn_142 Client Gift Basket    | 75.00       |             | 5,428.16      |
+| 15 May 2025| Card Payment - Pret A Manger, Kingsway       | 8.20        |             | 5,419.96      |
+| 18 May 2025| Card Payment - H&M, Covent Garden            | 59.99       |             | 5,359.97      |
+| 20 May 2025| Direct Debit - MobileWorld Contract          | 40.00       |             | 5,319.97      |
+| 22 May 2025| Card Payment - Sainsbury's Online            | 88.40       |             | 5,231.57      |
+| 24 May 2025| Card Payment - txn_031 Dry Cleaning          | 18.50       |             | 5,213.07      |
+| 26 May 2025| Card Payment - National Gallery Cafe         | 12.75       |             | 5,200.32      |
+| 28 May 2025| BACS Credit - Global Corp Ltd SALARY         |             | 3,025.00    | 8,225.32      |
+| 29 May 2025| ATM Withdrawal - Moneypenny ATM, Charing Cross| 150.00      |             | 8,075.32      |
+| 30 May 2025| Card Payment - Foyles, Charing Cross Road    | 25.60       |             | 8,049.72      |
+----------------------------------------------------------------------------------------------------
+
+**Closing Balance (31 May 2025): £8,049.72**
+
+Thank you for banking with Moneypenny Bank.
+For queries or assistance, please call 0345 600 700 or visit your local branch.

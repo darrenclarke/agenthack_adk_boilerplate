@@ -1,0 +1,42 @@
+**Birmingham Business Power & Light**
+Commercial Accounts Division
+1 Power Plaza, Birmingham, B2 2PN
+www.bbpl.co.uk
+
+**Business Electricity Bill**
+
+**Account Holder:** Gray Enterprises Ltd
+**Service Address:** Unit 10, Business Park, Birmingham, B1 1AA
+**Account Number:** BBPL-GE-12345678
+**Bill Date:** 20 May 2025
+**Payment Due Date:** 06 June 2025
+
+--------------------------------------------------------------------
+**Billing Period:** 18 April 2025 - 17 May 2025
+--------------------------------------------------------------------
+
+**Previous Balance:** £0.00 (Paid on 22 April 2025)
+
+**Meter Readings:**
+  Previous Reading (18 Apr 2025): 007890 kWh (Day) / 003450 kWh (Night)
+  Current Reading (17 May 2025):  008990 kWh (Day) / 003950 kWh (Night)
+  Units Used (Day):               1100 kWh
+  Units Used (Night):             500 kWh
+
+**Charges for this period:**
+  Day Rate Electricity (1100 kWh @ £0.30/kWh): £330.00
+  Night Rate Electricity (500 kWh @ £0.15/kWh): £75.00
+  Standing Charge (30 days @ £1.00/day):      £30.00
+  Climate Change Levy (CCL) @ £0.00775/kWh (1600 kWh): £12.40
+  Subtotal:                                   £447.40
+  VAT @ 20%:                                  £89.48
+--------------------------------------------------------------------
+**Total Amount Due:**                         **£536.88**
+--------------------------------------------------------------------
+
+**Payment Options:**
+- BACS Transfer: Account 98765432, Sort Code 11-22-33 (Ref: BBPL-GE-12345678)
+- Online: Visit www.bbpl.co.uk/businesspay
+
+Thank you for your business.
+For account enquiries, please contact your dedicated account manager.

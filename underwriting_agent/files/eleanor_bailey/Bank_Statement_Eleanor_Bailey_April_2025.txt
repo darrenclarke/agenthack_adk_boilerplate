@@ -1,0 +1,42 @@
+**Moneypenny Bank PLC**
+Your Trusted Financial Partner
+Branch: 45 Eastgate Street, Gloucester, GL1 1LN
+www.moneypennybank.co.uk
+
+**Bank Statement**
+
+**Account Holder:** Ms. Eleanor Bailey
+**Address:** Room 12B, Blackfriars Residences, 60 Westgate Street, Gloucester, GL1 2NF
+**Account Number:** 04-40-44-044044044
+**Sort Code:** 04-40-44
+**Statement Period:** 01 April 2025 - 30 April 2025
+**Statement Date:** 30 April 2025
+**Overdraft Limit:** £50.00
+
+**Opening Balance (01 April 2025): £472.36**
+
+----------------------------------------------------------------------------------------------------
+| Date       | Description                                  | Debit (£)   | Credit (£)  | Balance (£)   |
+|------------|----------------------------------------------|-------------|-------------|---------------|
+| 01 Apr 2025| Card Payment - University Library Cafe       | 3.50        |             | 468.86        |
+| 02 Apr 2025| Card Payment - Netflix Subscription          | 10.99       |             | 457.87        |
+| 03 Apr 2025| Card Payment - Asda, Bruton Way              | 22.50       |             | 435.37        |
+| 05 Apr 2025| Card Payment - TopUp Mobile Phone            | 10.00       |             | 425.37        |
+| 07 Apr 2025| Card Payment - SpinAndWinSlots.com           | 20.00       |             | 405.37        |
+| 08 Apr 2025| Card Payment - Uber Eats - KebabKing         | 18.70       |             | 386.67        |
+| 10 Apr 2025| Card Payment - Boots, Eastgate St            | 6.80        |             | 379.87        |
+| 12 Apr 2025| Card Payment - Amazon.co.uk                  | 12.99       |             | 366.88        |
+| 15 Apr 2025| Card Payment - Costa Coffee, The Cross       | 4.20        |             | 362.68        |
+| 18 Apr 2025| Card Payment - Domino's Pizza                | 22.00       |             | 340.68        |
+| 20 Apr 2025| Card Payment - BetNowGaming.co.uk            | 25.00       |             | 315.68        |
+| 22 Apr 2025| Card Payment - Student Union Shop            | 5.50        |             | 310.18        |
+| 25 Apr 2025| Card Payment - McDonald's, Westgate St       | 7.80        |             | 302.38        |
+| 28 Apr 2025| Direct Debit - Returned - GYMPASSMEMBERSHIP  | 25.00       |             | 277.38        |
+| 28 Apr 2025| *Returned Item Fee*                          | *15.00*     |             | *262.38*      |
+| 30 Apr 2025| BACS Credit - The Daily Grind Cafe SALARY    |             | 535.00      | 797.38        |
+----------------------------------------------------------------------------------------------------
+
+**Closing Balance (30 April 2025): £797.38**
+
+Important: A Direct Debit was returned unpaid this month. Please ensure sufficient funds for future payments.
+Thank you for banking with Moneypenny Bank.

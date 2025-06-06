@@ -1,0 +1,41 @@
+**Moneypenny Bank PLC**
+Your Trusted Financial Partner
+Branch: 22 Cabot Circus, Bristol, BS1 3BX
+www.moneypennybank.co.uk
+
+**Bank Statement**
+
+**Account Holder:** Mr. Thomas Baker
+**Address:** 27 Park Row, Bristol, BS1 5LS
+**Account Number:** 78-78-78-787878787
+**Sort Code:** 78-78-78
+**Statement Period:** 01 March 2025 - 31 March 2025
+**Statement Date:** 31 March 2025
+
+**Opening Balance (01 March 2025): £4,150.20**
+
+----------------------------------------------------------------------------------------------------
+| Date       | Description                                  | Debit (£)   | Credit (£)  | Balance (£)   |
+|------------|----------------------------------------------|-------------|-------------|---------------|
+| 01 Mar 2025| Rent Payment - Park Row Properties           | 1,000.00    |             | 3,150.20      |
+| 02 Mar 2025| Direct Debit - Bristol Gas & Power           | 55.80       |             | 3,094.40      |
+| 03 Mar 2025| Card Payment - Sainsbury's, Clifton Down     | 75.15       |             | 3,019.25      |
+| 05 Mar 2025| Card Payment - Amazon.co.uk                  | 32.50       |             | 2,986.75      |
+| 07 Mar 2025| Direct Debit - Wessex Water                  | 28.00       |             | 2,958.75      |
+| 08 Mar 2025| Card Payment - Coffee#1, Park Street         | 3.10        |             | 2,955.65      |
+| 10 Mar 2025| Transfer to Share Dealing Acct 987654        | 250.00      |             | 2,705.65      |
+| 12 Mar 2025| Card Payment - Steam Game Purchase           | 19.99       |             | 2,685.66      |
+| 15 Mar 2025| Card Payment - Currys PC World, Cribbs       | 89.00       |             | 2,596.66      |
+| 18 Mar 2025| Card Payment - Watershed Cinema              | 22.00       |             | 2,574.66      |
+| 20 Mar 2025| Direct Debit - Sky Broadband & TV            | 60.00       |             | 2,514.66      |
+| 22 Mar 2025| Card Payment - Tesco Express, Triangle       | 28.50       |             | 2,486.16      |
+| 25 Mar 2025| Card Payment - The Florist, Park Street      | 70.00       |             | 2,416.16      |
+| 28 Mar 2025| BACS Credit - Tech Solutions Inc SALARY      |             | 3,300.00    | 5,716.16      |
+| 29 Mar 2025| ATM Withdrawal - Moneypenny ATM, Broadmead   | 80.00       |             | 5,636.16      |
+| 30 Mar 2025| Card Payment - Waterstones, Galleries        | 15.99       |             | 5,620.17      |
+----------------------------------------------------------------------------------------------------
+
+**Closing Balance (31 March 2025): £5,620.17**
+
+Thank you for banking with Moneypenny Bank.
+For queries or assistance, please call 0345 600 700 or visit your local branch.

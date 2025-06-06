@@ -1,0 +1,43 @@
+**Tech Solutions Inc.**
+Innovation Hub, 100 Silicon Road, Bristol, BS2 0SP
+
+**Payslip**
+
+**Employee Name:** Mr. Thomas Baker
+**Employee ID:** TSI00123
+**Position:** Software Engineer
+**Pay Period:** 01 March 2025 - 31 March 2025
+**Pay Date:** 28 March 2025
+**Tax Code:** 1257L
+**NI Number:** YY987654B
+
+--------------------------------------------------------------------
+**Earnings**
+--------------------------------------------------------------------
+Basic Salary:                 £5,000.00
+
+**Total Gross Pay:**          **£5,000.00**
+
+--------------------------------------------------------------------
+**Deductions**
+--------------------------------------------------------------------
+PAYE (Income Tax):            £1,050.00
+National Insurance (NI):      £400.00
+Pension Contribution:         £250.00
+
+**Total Deductions:**         **£1,700.00**
+
+--------------------------------------------------------------------
+**Net Pay:**                  **£3,300.00**
+--------------------------------------------------------------------
+
+**Payment Method:** Direct Deposit to Bank Account ending ****7878
+
+**Year to Date (Tax Year 2024/2025 - Month 12)**
+Gross Pay YTD:      £60,000.00
+Tax Paid YTD:       £12,600.00
+NI Paid YTD:        £4,800.00
+Pension YTD:        £3,000.00
+
+Notes:
+This is your final payslip for the 2024/2025 tax year.

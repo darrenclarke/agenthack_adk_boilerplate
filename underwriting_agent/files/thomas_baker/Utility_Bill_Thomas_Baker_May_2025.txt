@@ -1,0 +1,44 @@
+**Bristol Gas & Power**
+Customer Services
+PO Box 123, Bristol, BS99 1BG
+www.bristolgaspower.co.uk
+
+**Gas Bill**
+
+**Account Holder:** Mr. Thomas Baker
+**Service Address:** 27 Park Row, Bristol, BS1 5LS
+**Account Number:** BGP-TB-98765432
+**Bill Date:** 18 May 2025
+**Payment Due Date:** 04 June 2025
+
+--------------------------------------------------------------------
+**Billing Period:** 15 April 2025 - 14 May 2025
+--------------------------------------------------------------------
+
+**Previous Balance:** £0.00 (Paid on 20 April 2025)
+
+**Meter Readings (Metric):**
+  Previous Reading (15 Apr 2025): 01234 m³
+  Current Reading (14 May 2025):  01298 m³
+  Units Used:                       64 m³
+
+**Conversion to kWh:**
+  Volume Correction: 1.022640
+  Calorific Value: 39.5 MJ/m³
+  kWh Conversion Factor: 3.6
+  Units in kWh: (64 * 1.022640 * 39.5) / 3.6 = 718.3 kWh (approx)
+
+**Charges for this period:**
+  Gas Usage (718.3 kWh @ £0.07/kWh): £50.28
+  Standing Charge (30 days @ £0.30/day): £9.00
+  VAT @ 5%:                             £2.96
+--------------------------------------------------------------------
+**Total Amount Due:**                   **£62.24**
+--------------------------------------------------------------------
+
+**Payment Options:**
+- Direct Debit: Your next payment of £62.24 will be taken on or around 04 June 2025.
+- Online: Visit www.bristolgaspower.co.uk/pay
+- Phone: Call 0800 987 6543
+
+Thank you for choosing Bristol Gas & Power.

@@ -1,0 +1,42 @@
+**Moneypenny Bank PLC**
+Your Trusted Financial Partner
+Branch: 45 Eastgate Street, Gloucester, GL1 1LN
+www.moneypennybank.co.uk
+
+**Bank Statement**
+
+**Account Holder:** Ms. Eleanor Bailey
+**Address:** Room 12B, Blackfriars Residences, 60 Westgate Street, Gloucester, GL1 2NF
+**Account Number:** 04-40-44-044044044
+**Sort Code:** 04-40-44
+**Statement Period:** 01 March 2025 - 31 March 2025
+**Statement Date:** 31 March 2025
+**Overdraft Limit:** £50.00
+
+**Opening Balance (01 March 2025): £15.50**
+
+----------------------------------------------------------------------------------------------------
+| Date       | Description                                  | Debit (£)   | Credit (£)  | Balance (£)   |
+|------------|----------------------------------------------|-------------|-------------|---------------|
+| 01 Mar 2025| Card Payment - Uni Cafe, Oxstalls Campus     | 4.50        |             | 11.00         |
+| 02 Mar 2025| Card Payment - Spotify Subscription          | 9.99        |             | 1.01          |
+| 03 Mar 2025| Card Payment - Greggs, King's Walk           | 3.80        |             | -2.79         |
+| 05 Mar 2025| Card Payment - LuckyBetOnline.com            | 10.00       |             | -12.79        |
+| 07 Mar 2025| Card Payment - Tesco Express, Quays          | 7.20        |             | -19.99        |
+| 08 Mar 2025| Card Payment - JustEat - PizzaGoGo           | 15.50       |             | -35.49        |
+| 10 Mar 2025| Card Payment - Poundland, Southgate St       | 5.00        |             | -40.49        |
+| 12 Mar 2025| ATM Withdrawal - CashZone, Eastgate St       | 10.00       |             | -50.49        |
+| 12 Mar 2025| *Overdraft Usage Fee Applied*                | *2.00*      |             | *-52.49*      |
+| 15 Mar 2025| Card Payment - Wilko, Northgate St           | 8.75        |             | -61.24        |
+| 15 Mar 2025| *Unarranged Overdraft Fee*                   | *6.00*      |             | *-67.24*      |
+| 18 Mar 2025| Card Payment - Campus Shop                   | 3.10        |             | -70.34        |
+| 20 Mar 2025| Card Payment - Deliveroo - WokThisWay        | 12.80       |             | -83.14        |
+| 22 Mar 2025| Card Payment - BetFast.co.uk                 | 15.00       |             | -98.14        |
+| 25 Mar 2025| Card Payment - Student Union Bar             | 9.50        |             | -107.64       |
+| 31 Mar 2025| BACS Credit - The Daily Grind Cafe SALARY    |             | 580.00      | 472.36        |
+----------------------------------------------------------------------------------------------------
+
+**Closing Balance (31 March 2025): £472.36**
+
+Important: Your account was overdrawn during this period. Please manage your funds to avoid further charges.
+Thank you for banking with Moneypenny Bank.
