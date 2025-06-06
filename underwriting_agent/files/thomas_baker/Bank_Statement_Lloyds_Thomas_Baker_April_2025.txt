@@ -1,0 +1,32 @@
+**Lloyds Bank**
+Your Partner for Life
+Branch: 33 Corn Street, Bristol, BS1 1HT
+www.lloydsbank.com
+
+**Bank Statement**
+
+**Account Holder:** Mr. Thomas Baker
+**Address:** 27 Park Row, Bristol, BS1 5LS
+**Account Number:** 12-34-56-12345678
+**Sort Code:** 12-34-56
+**Statement Period:** 01 April 2025 - 30 April 2025
+**Statement Date:** 30 April 2025
+
+**Opening Balance (01 April 2025): £3,062.50**
+
+----------------------------------------------------------------------------------------------------
+| Date       | Description                                  | Debit (£)   | Credit (£)  | Balance (£)   |
+|------------|----------------------------------------------|-------------|-------------|---------------|
+| 04 Apr 2025| Card Payment - Slack Subscription            | 12.00       |             | 3,050.50      |
+| 07 Apr 2025| Faster Payment In - Freelance Client C       |             | 550.00      | 3,600.50      |
+| 10 Apr 2025| Standing Order - Savings Account (Ref: Deposit)| 200.00      |             | 3,400.50      |
+| 16 Apr 2025| Card Payment - LinkedIn Premium              | 25.00       |             | 3,375.50      |
+| 21 Apr 2025| Faster Payment In - Freelance Client A       |             | 300.00      | 3,675.50      |
+| 25 Apr 2025| Card Payment - SoftwareTools.com             | 40.00       |             | 3,635.50      |
+| 29 Apr 2025| Interest Paid                                |             | 3.10        | 3,638.60      |
+----------------------------------------------------------------------------------------------------
+
+**Closing Balance (30 April 2025): £3,638.60**
+
+Thank you for banking with Lloyds Bank.
+For queries or assistance, please call 0345 300 0000 or visit your local branch.

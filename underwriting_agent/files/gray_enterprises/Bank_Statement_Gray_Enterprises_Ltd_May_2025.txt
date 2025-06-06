@@ -1,0 +1,41 @@
+**Moneypenny Bank PLC - Business Banking**
+Supporting Your Ambition
+Branch: 5 Colmore Row, Birmingham, B3 2BJ
+www.moneypennybank.co.uk/business
+
+**Business Bank Statement**
+
+**Account Holder:** Gray Enterprises Ltd
+**Address:** Unit 10, Business Park, Birmingham, B1 1AA
+**Account Number:** 10-00-00-100000003
+**Sort Code:** 10-00-00
+**Statement Period:** 01 May 2025 - 31 May 2025
+**Statement Date:** 31 May 2025
+
+**Opening Balance (01 May 2025): £32,479.30**
+
+----------------------------------------------------------------------------------------------------
+| Date       | Description                                  | Debit (£)   | Credit (£)  | Balance (£)   |
+|------------|----------------------------------------------|-------------|-------------|---------------|
+| 01 May 2025| Rent - Business Park Management              | 1,500.00    |             | 30,979.30     |
+| 02 May 2025| Direct Debit - BBPL (Ref BBPL-GE-12345678)   | 536.88      |             | 30,442.42     |
+| 03 May 2025| BACS Payment - Supplier Delta Solutions INV778| 2,100.00    |             | 28,342.42     |
+| 05 May 2025| Faster Payment In - Client S Project Milestone|            | 11,500.00   | 39,842.42     |
+| 08 May 2025| Card Payment - txn_094 Catering for Event    | 850.00      |             | 38,992.42     |
+| 10 May 2025| BACS Payment - Salaries May Wk2              | 5,650.00    |             | 33,342.42     |
+| 13 May 2025| Faster Payment In - Client T Final Payment   |             | 6,000.00    | 39,342.42     |
+| 16 May 2025| Direct Debit - Business Insurance Monthly    | 350.00      |             | 38,992.42     |
+| 19 May 2025| Card Payment - Google Ads Campaign           | 600.00      |             | 38,392.42     |
+| 21 May 2025| BACS Payment - Supplier Epsilon Parts INV303 | 1,250.00    |             | 37,142.42     |
+| 23 May 2025| Faster Payment In - Client U New Contract    |             | 15,000.00   | 52,142.42     |
+| 27 May 2025| BACS Payment - Salaries May Wk4              | 5,650.00    |             | 46,492.42     |
+| 30 May 2025| Merchant Service Fees - Worldpay             | 255.50      |             | 46,236.92     |
+| 31 May 2025| Bank Charges - Monthly Account Fee           | 25.00       |             | 46,211.92     |
+----------------------------------------------------------------------------------------------------
+
+**Closing Balance (31 May 2025): £46,211.92** 
+*(Note: This will be rounded to £45,000 for the Balance Sheet as per instructions)*
+
+
+Thank you for banking with Moneypenny Business Banking.
+Contact your Relationship Manager for any assistance.

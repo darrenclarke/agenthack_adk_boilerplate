@@ -1,0 +1,45 @@
+**Gray Enterprises Ltd**
+**Simplified Profit & Loss Statement**
+**For the Year to Date Ending 31 May 2025**
+
+--------------------------------------------------------------------
+**Revenue**
+--------------------------------------------------------------------
+Sales - Services Rendered:                          £135,000.00
+Sales - Product Distribution:                       £15,000.00
+**Total Revenue:**                                  **£150,000.00**
+
+--------------------------------------------------------------------
+**Cost of Goods Sold (COGS)**
+--------------------------------------------------------------------
+Direct Labor (Service Delivery):                    £40,000.00
+Materials & Supplies (Products):                    £12,000.00
+Subcontractor Costs:                                £8,000.00
+**Total Cost of Goods Sold:**                       **£60,000.00**
+
+--------------------------------------------------------------------
+**Gross Profit:**                                   **£90,000.00**
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+**Operating Expenses**
+--------------------------------------------------------------------
+Salaries & Wages (Admin & Management):              £28,000.00
+Rent & Rates (Unit 10, Business Park):              £7,500.00  (£1,500/month * 5 months)
+Utilities (Electricity, Water, Gas):                £2,800.00
+Marketing & Advertising:                            £3,500.00
+Software Subscriptions & IT Support:                £1,200.00
+Insurance:                                          £1,750.00  (£350/month * 5 months)
+Office Supplies & Expenses:                         £950.00
+Bank Charges & Merchant Fees:                       £1,300.00
+Depreciation (Equipment - Pro Rata YTD):            £3,000.00
+**Total Operating Expenses:**                       **£50,000.00**
+
+--------------------------------------------------------------------
+**Net Profit Before Tax:**                          **£40,000.00**
+--------------------------------------------------------------------
+
+**Notes:**
+1. This is a simplified statement for internal management review.
+2. Figures are Year to Date (YTD) as of 31 May 2025.
+3. Depreciation calculated on a straight-line basis for existing equipment.

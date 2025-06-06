@@ -1,0 +1,42 @@
+**Moneypenny Bank PLC**
+Your Trusted Financial Partner
+Branch: 22 Cabot Circus, Bristol, BS1 3BX
+www.moneypennybank.co.uk
+
+**Bank Statement**
+
+**Account Holder:** Mr. Thomas Baker
+**Address:** 27 Park Row, Bristol, BS1 5LS
+**Account Number:** 78-78-78-787878787
+**Sort Code:** 78-78-78
+**Statement Period:** 01 May 2025 - 31 May 2025
+**Statement Date:** 31 May 2025
+
+**Opening Balance (01 May 2025): £6,966.52**
+
+----------------------------------------------------------------------------------------------------
+| Date       | Description                                  | Debit (£)   | Credit (£)  | Balance (£)   |
+|------------|----------------------------------------------|-------------|-------------|---------------|
+| 01 May 2025| Rent Payment - Park Row Properties           | 1,000.00    |             | 5,966.52      |
+| 02 May 2025| Direct Debit - Bristol Gas & Power (Ref BGP-TB-98765432)| 62.24|             | 5,904.28      |
+| 03 May 2025| Card Payment - Lidl, Lawrence Hill           | 65.90       |             | 5,838.38      |
+| 05 May 2025| Card Payment - Netflix Subscription          | 10.99       |             | 5,827.39      |
+| 06 May 2025| Card Payment - txn_057 Morning Coffee        | 2.80        |             | 5,824.59      |
+| 07 May 2025| Direct Debit - Wessex Water                  | 28.00       |             | 5,796.59      |
+| 08 May 2025| Card Payment - txn_058 Lunch                 | 28.50       |             | 5,768.09      |
+| 10 May 2025| Transfer to Share Dealing Acct 987654        | 300.00      |             | 5,468.09      |
+| 12 May 2025| Card Payment - GitHub Subscription           | 7.00        |             | 5,461.09      |
+| 15 May 2025| Card Payment - Boston Tea Party, Park St     | 12.50       |             | 5,448.59      |
+| 18 May 2025| Card Payment - Amazon Web Services           | 45.00       |             | 5,403.59      |
+| 20 May 2025| Direct Debit - Sky Broadband & TV            | 60.00       |             | 5,343.59      |
+| 22 May 2025| Card Payment - Wiggle.co.uk (Cycle parts)    | 78.20       |             | 5,265.39      |
+| 25 May 2025| Transfer from Share Dealing Acct 987654      |             | 150.00      | 5,415.39      |
+| 28 May 2025| BACS Credit - Tech Solutions Inc SALARY      |             | 3,345.00    | 8,760.39      |
+| 29 May 2025| ATM Withdrawal - Moneypenny ATM, Cabot Circus| 100.00      |             | 8,660.39      |
+| 30 May 2025| Card Payment - Thatchers Arms, Redland       | 55.00       |             | 8,605.39      |
+----------------------------------------------------------------------------------------------------
+
+**Closing Balance (31 May 2025): £8,605.39**
+
+Thank you for banking with Moneypenny Bank.
+For queries or assistance, please call 0345 600 700 or visit your local branch.

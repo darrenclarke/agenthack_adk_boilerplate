@@ -1,0 +1,40 @@
+**Sparkle Energy Ltd.**
+Billing Department
+123 Powerhouse Road
+London, E1 6AN
+www.sparkleenergy.co.uk
+
+**Electricity Bill**
+
+**Account Holder:** Ms. Olivia King
+**Service Address:** 11 King's Way, London, WC2B 6LH
+**Account Number:** SE-OK-87654321
+**Bill Date:** 15 May 2025
+**Payment Due Date:** 01 June 2025
+
+--------------------------------------------------------------------
+**Billing Period:** 10 April 2025 - 09 May 2025
+--------------------------------------------------------------------
+
+**Previous Balance:** £0.00 (Paid on 16 April 2025)
+
+**Meter Readings:**
+  Previous Reading (10 Apr 2025): 34567 kWh
+  Current Reading (09 May 2025):  34789 kWh
+  Units Used:                     222 kWh
+
+**Charges for this period:**
+  Electricity Usage (222 kWh @ £0.28/kWh): £62.16
+  Standing Charge (30 days @ £0.50/day):  £15.00
+  VAT @ 5%:                               £3.86
+--------------------------------------------------------------------
+**Total Amount Due:**                     **£81.02**
+--------------------------------------------------------------------
+
+**Payment Options:**
+- Direct Debit: Your next payment of £81.02 will be taken on or around 01 June 2025.
+- Online: Visit www.sparkleenergy.co.uk/pay
+- Phone: Call 0800 123 4567
+
+Thank you for choosing Sparkle Energy.
+If you have any questions about your bill, please contact us.

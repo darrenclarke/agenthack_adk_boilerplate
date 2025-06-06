@@ -1,0 +1,41 @@
+**The Daily Grind Cafe**
+15 Southgate Street, Gloucester, GL1 1TP
+
+**Payslip**
+
+**Employee Name:** Ms. Eleanor Bailey
+**Employee ID:** DGC045
+**Position:** Barista (Part-Time)
+**Pay Period:** 01 March 2025 - 31 March 2025
+**Pay Date:** 31 March 2025
+**Tax Code:** 1257L (Non-Cumulative)
+**NI Number:** WX567890A
+
+--------------------------------------------------------------------
+**Earnings**
+--------------------------------------------------------------------
+Hours Worked: 60.00 @ £10.00/hr = £600.00
+
+**Total Gross Pay:**                **£600.00**
+
+--------------------------------------------------------------------
+**Deductions**
+--------------------------------------------------------------------
+PAYE (Income Tax):                  £0.00
+National Insurance (NI) - Cat A:    £20.00  (Calculated: (600-503)*0.12 approx for lower earnings limit)
+
+**Total Deductions:**               **£20.00**
+
+--------------------------------------------------------------------
+**Net Pay:**                        **£580.00**
+--------------------------------------------------------------------
+
+**Payment Method:** Direct Deposit to Bank Account ending ****0440
+
+**Year to Date (Tax Year 2024/2025 - Month 12)**
+Gross Pay YTD:      £ (Varies based on previous months - assuming £6500 for example)
+Tax Paid YTD:       £ (Varies - assuming £0 if consistently below threshold)
+NI Paid YTD:        £ (Varies - assuming £180 for example)
+
+Notes:
+Thank you for your hard work!

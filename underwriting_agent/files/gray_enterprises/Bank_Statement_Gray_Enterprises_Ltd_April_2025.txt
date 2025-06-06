@@ -1,0 +1,38 @@
+**Moneypenny Bank PLC - Business Banking**
+Supporting Your Ambition
+Branch: 5 Colmore Row, Birmingham, B3 2BJ
+www.moneypennybank.co.uk/business
+
+**Business Bank Statement**
+
+**Account Holder:** Gray Enterprises Ltd
+**Address:** Unit 10, Business Park, Birmingham, B1 1AA
+**Account Number:** 10-00-00-100000003
+**Sort Code:** 10-00-00
+**Statement Period:** 01 April 2025 - 30 April 2025
+**Statement Date:** 30 April 2025
+
+**Opening Balance (01 April 2025): £39,259.55**
+
+----------------------------------------------------------------------------------------------------
+| Date       | Description                                  | Debit (£)   | Credit (£)  | Balance (£)   |
+|------------|----------------------------------------------|-------------|-------------|---------------|
+| 01 Apr 2025| Rent - Business Park Management              | 1,500.00    |             | 37,759.55     |
+| 02 Apr 2025| Direct Debit - BBPL (Ref BBPL-GE-12345678)   | 500.00      |             | 37,259.55     |
+| 04 Apr 2025| BACS Payment - Supplier Gamma Ltd INV11223   | 3,200.00    |             | 34,059.55     |
+| 06 Apr 2025| Faster Payment In - Client P Phase 1         |             | 9,000.00    | 43,059.55     |
+| 09 Apr 2025| Card Payment - Marketing Campaign Facebook   | 750.00      |             | 42,309.55     |
+| 11 Apr 2025| BACS Payment - Salaries April Wk2            | 5,600.00    |             | 36,709.55     |
+| 14 Apr 2025| Faster Payment In - Client Q Services        |             | 4,500.00    | 41,209.55     |
+| 17 Apr 2025| Direct Debit - Business Loan Repayment       | 800.00      |             | 40,409.55     |
+| 19 Apr 2025| Card Payment - Software Subscription (Zoom)  | 150.00      |             | 40,259.55     |
+| 22 Apr 2025| BACS Payment - HMRC VAT Return               | 4,500.00    |             | 35,759.55     |
+| 24 Apr 2025| Faster Payment In - Client R Adhoc Work      |             | 2,500.00    | 38,259.55     |
+| 26 Apr 2025| BACS Payment - Salaries April Wk4            | 5,600.00    |             | 32,659.55     |
+| 29 Apr 2025| Merchant Service Fees - Stripe               | 180.25      |             | 32,479.30     |
+----------------------------------------------------------------------------------------------------
+
+**Closing Balance (30 April 2025): £32,479.30**
+
+Thank you for banking with Moneypenny Business Banking.
+Contact your Relationship Manager for any assistance.

@@ -1,0 +1,38 @@
+**Moneypenny Bank PLC - Business Banking**
+Supporting Your Ambition
+Branch: 5 Colmore Row, Birmingham, B3 2BJ
+www.moneypennybank.co.uk/business
+
+**Business Bank Statement**
+
+**Account Holder:** Gray Enterprises Ltd
+**Address:** Unit 10, Business Park, Birmingham, B1 1AA
+**Account Number:** 10-00-00-100000003
+**Sort Code:** 10-00-00
+**Statement Period:** 01 March 2025 - 31 March 2025
+**Statement Date:** 31 March 2025
+
+**Opening Balance (01 March 2025): £35,250.80**
+
+----------------------------------------------------------------------------------------------------
+| Date       | Description                                  | Debit (£)   | Credit (£)  | Balance (£)   |
+|------------|----------------------------------------------|-------------|-------------|---------------|
+| 01 Mar 2025| Rent - Business Park Management              | 1,500.00    |             | 33,750.80     |
+| 03 Mar 2025| BACS Payment - Supplier Alpha Ltd INV00789   | 2,750.00    |             | 31,000.80     |
+| 05 Mar 2025| Faster Payment In - Client X Project Payment |             | 7,500.00    | 38,500.80     |
+| 07 Mar 2025| Direct Debit - WebHosting Pro Annual         | 240.00      |             | 38,260.80     |
+| 10 Mar 2025| Card Payment - Staples Office Supplies       | 180.50      |             | 38,080.30     |
+| 12 Mar 2025| BACS Payment - Salaries March Wk2            | 5,500.00    |             | 32,580.30     |
+| 15 Mar 2025| Faster Payment In - Client Y Retainer        |             | 3,000.00    | 35,580.30     |
+| 18 Mar 2025| Direct Debit - Business Insurance Monthly    | 350.00      |             | 35,230.30     |
+| 20 Mar 2025| Card Payment - Fuel Card Services            | 450.00      |             | 34,780.30     |
+| 22 Mar 2025| BACS Payment - Supplier Beta Co INV5432      | 1,800.00    |             | 32,980.30     |
+| 25 Mar 2025| Faster Payment In - Client Z Invoice         |             | 12,000.00   | 44,980.30     |
+| 28 Mar 2025| BACS Payment - Salaries March Wk4            | 5,500.00    |             | 39,480.30     |
+| 30 Mar 2025| Merchant Service Fees - CardNet              | 220.75      |             | 39,259.55     |
+----------------------------------------------------------------------------------------------------
+
+**Closing Balance (31 March 2025): £39,259.55**
+
+Thank you for banking with Moneypenny Business Banking.
+Contact your Relationship Manager for any assistance.
